@@ -1,5 +1,5 @@
 
-![logo](https://github.com/VaibhavChougule236/VaibhavChougule236/blob/main/github_banner.mp4)
+![logo](https://github.com/VaibhavChougule236/VaibhavChougule236/blob/main/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Chougule</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
