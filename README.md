@@ -13,13 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/vaibhavchougule124](www.linkedin.com/in/vaibhavchougule124)
 
-- 💬 Ask me about **Java, Sql, Spring boot**
-
 - 📫 How to reach me **vaibhavchougule236@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15DMHQo-rb99IU7O44QApiHTICROabrbk/view?usp=sharing](https://drive.google.com/file/d/15DMHQo-rb99IU7O44QApiHTICROabrbk/view?usp=sharing)
-
-- ⚡ Fun fact **I am happy 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
