@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/github/followers/vaibhavchougule236?label=Followers&style=social" alt="followers" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+</p>
 
 ---
 
@@ -65,7 +67,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchougule236&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchougule236&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=vaibhavchougule236&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavchougule236&show_icons=true&layout=compact&theme=radical" alt="langs" />
 </p>
 
