@@ -66,13 +66,22 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchougule236&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=vaibhavchougule236&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavchougule236&show_icons=true&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchougule236&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=vaibhavchougule236&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&currStreakNum=fff&currStreakLabel=fff&background=141321" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavchougule236&show_icons=true&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
+
 ---
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavchougule236&theme=react-dark&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
 
 ### 🏆 Achievements  
 - 🎖️ Active **Open Source Contributor**   
