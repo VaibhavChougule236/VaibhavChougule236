@@ -48,7 +48,7 @@
 - ⚛️ Frameworks & Libraries  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=spring,html,css,react,tailwind" />
   </a>
 </p>
 
