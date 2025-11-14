@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 - 🌱 Building expertise in **Java Full-Stack Development with Spring Boot, React, Microservices, and Cloud Deployment**  
 - 👀 Interested in **Open Source, Web Development, and Cloud Technologies**  
 - 💻 Contributor at **Open Source Projects** (NotesVault & others)  
@@ -23,8 +23,19 @@
 - ⚡ Fun fact: *I love fixing bugs more than creating them 😄*  
 
 ---
+## 🔥 **Achievements & Leadership**
 
-### 🤝 Connect with Me  
+✔️ **Treasurer @ E-Cell** – Embarking on a basic entrepreneurial and finance management journey  
+✔️ **6K+ LinkedIn Network** – Connecting with the best minds in the universe  
+✔️ **30+ Projects, 100+ Solutions** – Engineering solutions that defy limits  
+✔️ **Open Source Contributor** – Collaboration with great teams and open source communities worldwide
+✔️ Building **Full-Stack projects (Spring Boot + React)**
+
+
+---
+
+
+## 🤝 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/vaibhavchougule124" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/vaibhavchougule236" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
@@ -77,7 +88,37 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 🔥 **29+ Projects with Code**
+
+<details>
+  <summary>📂 Click to Expand</summary>
+
+  | **Language** | **Project** | **Code** |
+  |--------------|-------------|----------|
+  | **Java** | Core-Payment-Integration-System (Microservices) | [View Code](https://github.com/VaibhavChougule236/Core-Payment-Integration-System-Microservices-Based-Backend-Project) |
+  | **Java Full Stack** | Employee-Management-System (Full Stack) | [View Code](https://github.com/VaibhavChougule236/Employee-Management-System-Monolithic-JavaFullStack) |
+  | **Java** | Expense-Tracker | [View Code](https://github.com/VaibhavChougule236/Expense-Tracker) |
+  | **Java Full Stack** | Smart Contact Manager (Full Stack) | [View Code](https://github.com/VaibhavChougule236/Smart-Contact-Manager) |
+  | **HTML/CSS/JS** | Real-Time-Chat-App | [View Code](https://github.com/VaibhavChougule236/Real-Time-Chat-App) |
+  | **Java** | Payment-Integration-Springboot | [View Code](https://github.com/VaibhavChougule236/Payment-Integration-Spring-boot-) |
+  | **Java** | API-Testing (Rest Assured) | [View Code](https://github.com/VaibhavChougule236/API-Testing) |
+  | **HTML/CSS/JS** | Quiz-App | [View Code](https://github.com/VaibhavChougule236/Quiz-App) |
+  | **HTML/CSS/JS** | notesvault | [View Code](https://github.com/VaibhavChougule236/notesvault) |
+  | **HTML/CSS/JS** | BMI-Calculator | [View Code](https://github.com/VaibhavChougule236/BMI-Calculator-Using-html-css-and-js) |
+  | **Java Full Stack** | Bank-Management-System | [View Code](https://github.com/VaibhavChougule236/Bank-Management-System) |
+  | **Java** | Hospital-Management-System | [View Code](https://github.com/VaibhavChougule236/Hospital-Management-System-) |
+  | **Java** | ShortenURL | [View Code](https://github.com/VaibhavChougule236/ShortenURL-) |
+  | **Java** | Quiz-Project | [View Code](https://github.com/VaibhavChougule236/Quiz-Project) |
+  | **Java** | calciUsingJava | [View Code](https://github.com/VaibhavChougule236/calciUsingJava) |
+  | **Mern Stack** | ai-fitness-coach | [View Code](https://github.com/VaibhavChougule236/ai-fitness-coach) |
+  | **HTML/CSS/JS** | Weather-Web | [View Code](https://github.com/VaibhavChougule236/Weather_Web) |
+  | **C** | Temperature Converter | [View Code](https://github.com/VaibhavChougule236/Temperature) |
+  | **C** | NumberGuessing | [View Code](https://github.com/VaibhavChougule236/NumberGuessing) |
+  | **HTML/CSS** | Love-Calculator | [View Code](https://github.com/VaibhavChougule236/Love-Calculator) |
+
+</details>
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchougule236&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
@@ -88,16 +129,11 @@
 
 ---
 
-### 📈 Contribution Graph  
+## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavchougule236&theme=react-dark&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-
-
-### 🏆 Achievements  
-- 🎖️ Active **Open Source Contributor**   
-- 🌟 Building **Full-Stack projects (Spring Boot + React)**  
   
 
 ---
