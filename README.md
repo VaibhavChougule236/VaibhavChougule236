@@ -88,7 +88,7 @@
 
 ---
 
-## 🔥 **29+ Projects with Code**
+## 🔥 **20+ Projects with Code**
 
 <details>
   <summary>📂 Click to Expand</summary>
