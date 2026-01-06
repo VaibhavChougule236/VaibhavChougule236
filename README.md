@@ -19,7 +19,7 @@
 - 🚀 Actively participating in **GirlScript Summer of Code (GSSoC '25)** and other Open Source programs  
 - 💞️ Looking to collaborate on **Java, APIs, and Web Apps**  
 - 📫 Reach me: **vaibhavchougule236@gmail.com**
-- 🌐 Website: [www.vaibhavchougule.com](https://vaibhav-chougule.netlify.app/)  
+- 🌐 Website: [www.vaibhavchougule.com](https://vaibhavchougule.vercel.app/)  
 - ⚡ Fun fact: *I love fixing bugs more than creating them 😄*  
 
 ---
