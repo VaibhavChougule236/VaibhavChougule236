@@ -80,7 +80,7 @@
 - 🔧 Dev Tools & Platforms  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,linux,gemini,huggingface" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,linux,figma,gemini,huggingface" />
   </a>
 </p>
 
