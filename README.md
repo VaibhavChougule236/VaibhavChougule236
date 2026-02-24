@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Chougule</h1>
-<h3 align="center">🚀 Passionate Software Developer | Java Full-Stack Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Passionate Software Developer | Java Full-Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhavchougule236&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
