@@ -121,9 +121,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchougule236&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vaibhavchougule236&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&currStreakNum=fff&currStreakLabel=fff&background=141321" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavchougule236&show_icons=true&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaibhavChougule236&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://streak-stats.demolab.com?user=VaibhavChougule236&theme=tokyonight&hide_border=true" />
 </p>
 
 
