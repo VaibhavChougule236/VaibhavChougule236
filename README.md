@@ -26,9 +26,9 @@
 ## 🔥 **Achievements & Leadership**
 
 ✔️ **Treasurer @ E-Cell** – Embarking on a basic entrepreneurial and finance management journey  
-✔️ **6K+ LinkedIn Network** – Connecting with the best minds in the universe.  
+✔️ **7K+ LinkedIn Network** – Connecting with the best minds in the universe.  
 ✔️ **30+ Projects, 100+ Solutions** – Engineering solutions that defy limits.  
-✔️ **Open Source Contributor** – Collaboration with great teams and open source communities worldwide.   
+✔️ **Open Source Contributor GSSoC25** – Collaboration with great teams and open source communities worldwide.   
 ✔️ **Building Full-Stack projects** (Spring Boot + React)
 
 
